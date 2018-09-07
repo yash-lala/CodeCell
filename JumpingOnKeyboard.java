@@ -1,7 +1,7 @@
 class JumpingOnKeyboard{
 	public static void main(String[] args) {
 		String one = "supercalifragilisticexpialidocious";
-		String two = "antidisestablishmentarianis";
+		String two = "antidisestablishmentarianism";
 		System.out.println(getJumps(one)*getJumps(two));
 	}
 
