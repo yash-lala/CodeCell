@@ -1,5 +1,5 @@
 class VignereCipher{
-	static String key = "Code";
+	static String key = "CodeCell";
 	static String text = "Just finished the TSEC CodeCell Challenge";
 	public static void main(String[] args) {
 		text = text.toLowerCase().replaceAll("\\s+","");
